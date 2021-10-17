@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<technical books>
+<book>
+    <ISBN>9780262032933</ISBN>
+    <title>Introduction to Algorithms</title>
+    <author>Thomas H. Cormen, Charles E. Leiserson</author>
+</book>
+<book>
+    <ISBN>9781541618510</ISBN>
+    <title>The Art of Statistics: How to Learn from 	Data</title>
+    <author>David Spiegelhalter</author>
+</book>
+</technical books>
+
+<cookery books>
+<book>
+    <ISBN>9781423658269</ISBN>
+    <title>Naturally, Delicious Dinners</title>
+    <author>Danny Seo</author>
+</book>
+<book>
+    <ISBN>9781501169717</ISBN>
+    <title>Joy of Cooking</title>
+    <author> Irma S. Rombauer, Marion Rombauer</author>
+</book>
+</cookery books>
+
